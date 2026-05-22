@@ -1,0 +1,6 @@
+{
+  "name": "Smart Receipt Scanner",
+  "description": "An AI-powered smart receipt scanner that extracts facts like merchant, date, items, and total using Gemini, saving scans in a local database with a diagnostic dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
